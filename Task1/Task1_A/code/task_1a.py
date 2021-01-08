@@ -1,33 +1,4 @@
 
-'''
-*****************************************************************************************
-*
-*        		===============================================
-*           		Rapid Rescuer (RR) Theme (eYRC 2019-20)
-*        		===============================================
-*
-*  This script is to implement Task 1A of Rapid Rescuer (RR) Theme (eYRC 2019-20).
-*  
-*  This software is made available on an "AS IS WHERE IS BASIS".
-*  Licensee/end user indemnifies and will keep e-Yantra indemnified from
-*  any and all claim(s) that emanate from the use of the Software or 
-*  breach of the terms of this agreement.
-*  
-*  e-Yantra - An MHRD project under National Mission on Education using ICT (NMEICT)
-*
-*****************************************************************************************
-'''
-
-
-# Team ID:			[ 492 ]
-# Author List:		[ Mallika Sirdeshpande, Aryan Sharma, Atharva Gupta, Toshani Rungta ]
-# Filename:			task_1a.py
-# Functions:		readImage, solveMaze
-# 					[ find_n, wt, z_ex, shortestpath, checkn ]
-# Global variables:	CELL_SIZE
-# 					[ List of global variables defined in this file ]
-
-
 # Import necessary modules
 # Do not import any other modules
 import cv2
